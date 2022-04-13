@@ -9,10 +9,21 @@ body {
 	background-color: #fffcf8;
 }
 
+.firsttext {
+	text-align: right
+}
+
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #F5BE5C;
+}
+
+.headertext {
+	color:white;
+	text-align: right;
+	font-style: normal;
+	font-size: 14pt;
 }
 
 /* Changing the background color for the navigation bar */
@@ -20,7 +31,20 @@ header {
 .navbar {
 	background-color: #fff0e0;
 }
+	
+.navbartext {
+	color:black;
+	text-align: center;
+	font-style: normal;
+    font-size: 14pt;
+			
+}
 
+.picturetext {
+	position: relative;
+	bottom: 0;
+}
+		
 /* Effect on social media buttons */
 
 footer a:hover {
