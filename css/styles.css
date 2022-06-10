@@ -10,7 +10,7 @@ body {
 }
 
 .firsttext {
-	text-align: right
+	text-align: center
 }
 
 /* Changing the background colour for the header */
@@ -21,7 +21,7 @@ header {
 
 .headertext {
 	color:white;
-	text-align: right;
+	text-align: center;
 	font-style: normal;
 	font-size: 14pt;
 }
